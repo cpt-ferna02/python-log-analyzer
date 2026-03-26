@@ -1,0 +1,10 @@
+Timestamp,Event ID,Threat,MITRE ATT&CK,Source File
+2020-09-09 13:18:23.627951+00:00,4625,Failed Logon,T1110 - Brute Force,CA_4624_4625_LogonType2_LogonProc_chrome.evtx
+2019-09-22 11:22:05.201725+00:00,4732,User Added to Admin Group,T1098 - Account Manipulation,Network_Service_Guest_added_to_admins_4732.evtx
+2019-09-22 11:23:19.251926+00:00,4732,User Added to Admin Group,T1098 - Account Manipulation,Network_Service_Guest_added_to_admins_4732.evtx
+2022-05-01 04:41:34.351767+00:00,4672,Special Privileges Assigned,T1078 - Valid Accounts,NTLM2SelfRelay-med0x2e-security_4624_4688.evtx
+2022-05-01 04:41:45.455555+00:00,4672,Special Privileges Assigned,T1078 - Valid Accounts,NTLM2SelfRelay-med0x2e-security_4624_4688.evtx
+2022-05-01 04:41:52.090647+00:00,4672,Special Privileges Assigned,T1078 - Valid Accounts,NTLM2SelfRelay-med0x2e-security_4624_4688.evtx
+2022-05-01 04:41:58.623814+00:00,4672,Special Privileges Assigned,T1078 - Valid Accounts,NTLM2SelfRelay-med0x2e-security_4624_4688.evtx
+2022-05-01 04:42:06.656542+00:00,4688,New Process Created,T1059 - Command Execution,NTLM2SelfRelay-med0x2e-security_4624_4688.evtx
+2019-03-19 00:02:04.319944+00:00,4698,Scheduled Task Created,T1053 - Scheduled Task,temp_scheduled_task_4698_4699.evtx
